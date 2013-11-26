@@ -1,0 +1,55 @@
+<VisualStudioProject>
+    <CSHARP ProjectType="Local" ProductVersion="7.0.9466" SchemaVersion="1.0">
+        <Build>
+            <Settings ApplicationIcon="" AssemblyKeyContainerName="" AssemblyName="dbMantenimiento2Biz" AssemblyOriginatorKeyFile="" DefaultClientScript="JScript" DefaultHTMLPageLayout="Grid" DefaultTargetSchema="IE50" DelaySign="false" OutputType="Library" RootNamespace="dbMantenimiento2Biz" StartupObject="">
+                <Config Name="Debug" AllowUnsafeBlocks="false" BaseAddress="285212672" CheckForOverflowUnderflow="false" ConfigurationOverrideFile="" DefineConstants="DEBUG;TRACE" DocumentationFile="" DebugSymbols="true" FileAlignment="4096" IncrementalBuild="true" Optimize="false" OutputPath="bin\Debug\" RegisterForComInterop="false" RemoveIntegerChecks="false" TreatWarningsAsErrors="false" WarningLevel="4" />
+                <Config Name="Release" AllowUnsafeBlocks="false" BaseAddress="285212672" CheckForOverflowUnderflow="false" ConfigurationOverrideFile="" DefineConstants="TRACE" DocumentationFile="" DebugSymbols="false" FileAlignment="4096" IncrementalBuild="false" Optimize="true" OutputPath="bin\Release\" RegisterForComInterop="false" RemoveIntegerChecks="false" TreatWarningsAsErrors="false" WarningLevel="4" />
+            </Settings>
+            <References>
+                <Reference Name="System" AssemblyName="System" HintPath="C:\WINNT\Microsoft.NET\Framework\v1.0.3705\System.dll" />
+                <Reference Name="System.Data" AssemblyName="System.Data" HintPath="C:\WINNT\Microsoft.NET\Framework\v1.0.3705\System.Data.dll" />
+                <Reference Name="System.XML" AssemblyName="System.Xml" HintPath="C:\WINNT\Microsoft.NET\Framework\v1.0.3705\System.XML.dll" />
+                <Reference Name="OrmLib" AssemblyName="OrmLib" HintPath="OrmLib.dll" />
+            </References>
+        </Build>
+        <Files>
+            <Include>
+                <File RelPath="AssemblyInfo.cs" SubType="Code" BuildAction="Compile" />
+                
+                <File RelPath="do_not_edit\F706C4B7-D8C0-4E0B-B580-98493E018F5C-101824-943597.xml" SubType="Code" BuildAction="None" />
+                <File RelPath="do_not_edit\Templates.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="do_not_edit\Lookups.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="do_not_edit\DataManager.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="do_not_edit\DataSet.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="do_not_edit\Business.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="do_not_edit\Collections.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="do_not_edit\JoinPath.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="do_not_edit\FetchPath.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="do_not_edit\Tables.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="do_not_edit\StoredProcedures.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="Config.cs" SubType="Code" BuildAction="Compile" />
+
+                <File RelPath="aprobacion.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="componente.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="detalle_reparo.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="empresa.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="funcion.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="inventario.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="linea_produccion.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="maquina.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="material_herramienta.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="materialusado.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="privilegio.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="problema.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="proveedor.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="recomendacion.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="rol.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="solicitud.cs" SubType="Code" BuildAction="Compile" />
+                <File RelPath="Usuario.cs" SubType="Code" BuildAction="Compile" />
+
+
+            </Include>
+        </Files>
+    </CSHARP>
+</VisualStudioProject>
+
